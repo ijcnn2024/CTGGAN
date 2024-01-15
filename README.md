@@ -5,14 +5,14 @@ In this project, we have successfully developed a novel method for generating hi
 
 ## Files
 - `model.py`: This code file containing the implementation of the CTGGAN model.
+- `train.py`: This code file containing the implementation of the training process.
+- `generate.py`: This code file containing the implementation of the generating FHR signal.
 
 ## Visualization
 
 ### Generated Signal Samples
 ![Generated Signal Samples](path_to_generated_signal_samples_image)
 
-### Loss Function for Model Training
-![Loss Function](path_to_loss_function_image)
 
 ## Setup
 To set up and install the necessary environments and dependencies, follow the steps below:
