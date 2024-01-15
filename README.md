@@ -11,7 +11,7 @@ In this project, we have successfully developed a novel method for generating hi
 ## Visualization
 
 ### Generated Signal Samples
-![Generated Signal Samples](path_to_generated_signal_samples_image)
+![Generated Signal Samples](Signal.png)
 
 
 ## Setup
