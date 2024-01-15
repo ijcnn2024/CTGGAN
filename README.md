@@ -17,9 +17,7 @@ In this project, we have successfully developed a novel method for generating hi
 ## Setup
 To set up and install the necessary environments and dependencies, follow the steps below:
 
-1. Ensure that you have Python 3.9 and PyTorch installed on your system. You can download it from [here](python_pytorch_download_link).
-2. Clone the repository to your local machine.
-3. Navigate to the project directory in your terminal.
-4. Install the necessary packages mentioned in `CTGGAN.py`. 
+1. Ensure that you have Python 3.11.4, PyTorch 2.0 and cuda 11.8 installed on your system. 
+2. Install the necessary packages mentioned in the code file.
+3. Download the datasets and preprocessing it.
 
-**Note:** Replace `path_to_generated_signal_samples_image`, `path_to_loss_function_image`, and `python_pytorch_download_link` with actual URLs or paths to the resources.
